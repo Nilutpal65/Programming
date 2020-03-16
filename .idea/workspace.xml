@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="$debug_swf$" id="18aa6029-c8f6-449e-b290-c1adecc5eef1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="$debug_swf$" />
+    <option name="SHOW_DIALOG" value="$optimize_swf$" />
+    <option name="HIGHLIGHT_CONFLICTS" value="$debug_swf$" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="$optimize_swf$" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1135462977">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="8396" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8396" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="java" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="64" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="$optimize_swf$" current-in-tab="$optimize_swf$">
+        <entry file="file://$PROJECT_DIR$/GeeksForGeeks/src/CountTheReversals.java">
+          <provider selected="$debug_swf$" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="$debug_swf$" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="$optimize_swf$" current-in-tab="$debug_swf$">
+        <entry file="file://$PROJECT_DIR$/GeeksForGeeks/src/UnionOfTwoLists.java">
+          <provider selected="$debug_swf$" editor-type-id="text-editor">
+            <state relative-caret-position="-152">
+              <caret line="16" column="31" lean-forward="$debug_swf$" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="$debug_swf$" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(double</find>
+      <find>(int</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Progarmming" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CPTemplate.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/A605.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/A603.java" />
+        <option value="$PROJECT_DIR$/hackearth/src/feasibleRelations.java" />
+        <option value="$PROJECT_DIR$/hackearth/src/bishuAndHisGirlfriend.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/hackearth/src/monkAndPhilosopherStone.java" />
+        <option value="$PROJECT_DIR$/Threads/src/HelloRunnable.java" />
+        <option value="$PROJECT_DIR$/Threads/src/Threads_01_02.java" />
+        <option value="$PROJECT_DIR$/Threads/src/TestJoinClass.java" />
+        <option value="$PROJECT_DIR$/Threads/src/Threads_01_03.java" />
+        <option value="$PROJECT_DIR$/Threads/src/Thread_02_01.java" />
+        <option value="$PROJECT_DIR$/Threads/src/Thread_02_02.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/src/WaterConnectionProblem.java" />
+        <option value="$PROJECT_DIR$/hackearth/src/ArrayAndOperations.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/src/MakeArrayNonDecreasing.java" />
+        <option value="$PROJECT_DIR$/Threads/src/WaitAndNotify.java" />
+        <option value="$USER_HOME$/Downloads/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/src/threads_03_02/WorkerThread.java" />
+        <option value="$PROJECT_DIR$/Threads/src/WorkerThread.java" />
+        <option value="$PROJECT_DIR$/Threads/src/Thread_03_02.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/src/CountTheReversals.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/src/UnionOfTwoLists.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="$debug_swf$" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="$debug_swf$" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>$debug_swf$</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="948" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="$debug_swf$" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="$debug_swf$" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Progarmming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="$optimize_swf$" />
+    <property name="aspect.path.notification.shown" value="$debug_swf$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584321711607" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UnionOfTwoLists">
+    <configuration name="CountTheReversals" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="CountTheReversals" />
+      <module name="GeeksForGeeks" />
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <configuration name="MakeArrayNonDecreasing" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="MakeArrayNonDecreasing" />
+      <module name="GeeksForGeeks" />
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <configuration name="Thread_03_02" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="Thread_03_02" />
+      <module name="Threads" />
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <configuration name="UnionOfTwoLists" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="UnionOfTwoLists" />
+      <module name="GeeksForGeeks" />
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <configuration name="WaitAndNotify" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="WaitAndNotify" />
+      <module name="Threads" />
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MakeArrayNonDecreasing" />
+      <item itemvalue="Application.WaitAndNotify" />
+      <item itemvalue="Application.Thread_03_02" />
+      <item itemvalue="Application.CountTheReversals" />
+      <item itemvalue="Application.UnionOfTwoLists" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UnionOfTwoLists" />
+        <item itemvalue="Application.CountTheReversals" />
+        <item itemvalue="Application.Thread_03_02" />
+        <item itemvalue="Application.WaitAndNotify" />
+        <item itemvalue="Application.MakeArrayNonDecreasing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="$debug_swf$" id="Default" summary="Default task">
+      <changelist id="18aa6029-c8f6-449e-b290-c1adecc5eef1" name="Default Changelist" comment="" />
+      <created>1583581543238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583581543238</updated>
+      <workItem from="1583581547173" duration="11639000" />
+      <workItem from="1583724575167" duration="22426000" />
+      <workItem from="1584320246775" duration="1864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35929000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="948" extended-state="0" />
+    <editor active="$debug_swf$" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="$debug_swf$" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="$debug_swf$" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="$debug_swf$" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="$debug_swf$" anchor="bottom" id="Run" order="2" visible="$debug_swf$" weight="0.42136854" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4789916" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="$debug_swf$" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="$optimize_swf$" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="$optimize_swf$" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="StackInTheFlow" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="$debug_swf$" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="$debug_swf$" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="$debug_swf$" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07082833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50780314" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="$debug_swf$" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="$optimize_swf$" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="$optimize_swf$" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="StackInTheFlow" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>s.indexOf(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.indexOf(i) == '{'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/PrintWriter.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/A605.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="41" lean-forward="$debug_swf$" selection-start-line="41" selection-end-line="147" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="1334" column="22" selection-start-line="1334" selection-start-column="22" selection-end-line="1334" selection-end-column="22" />
+          <folding>
+            <element signature="e#52232#52233#0" expanded="$debug_swf$" />
+            <element signature="e#52271#52272#0" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/A603.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2866" column="23" selection-start-line="2866" selection-start-column="23" selection-end-line="2866" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CPTemplate.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="145" column="1" selection-start-line="3" selection-start-column="24" selection-end-line="145" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="975" column="19" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/Threads_01_02.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="1324" column="22" selection-start-line="1324" selection-start-column="22" selection-end-line="1324" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/Threads_01_03.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/rmi/registry/RegistryImpl.class">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="240" column="24" selection-start-line="240" selection-start-column="24" selection-end-line="240" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/Thread_02_02.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="$debug_swf$" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackearth/src/monkAndPhilosopherStone.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="81" lean-forward="$debug_swf$" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/src/WaterConnectionProblem.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackearth/src/ArrayAndOperations.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackearth/src/bishuAndHisGirlfriend.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="28" column="81" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackearth/src/feasibleRelations.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="160" column="1" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="647" column="28" selection-start-line="647" selection-start-column="12" selection-end-line="647" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/WaitAndNotify.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="$debug_swf$" selection-start-line="6" selection-start-column="12" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/src/MakeArrayNonDecreasing.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="32" column="5" lean-forward="$debug_swf$" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/src/threads_03_02/WorkerThread.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/sa-jdi.jar!/sun/jvm/hotspot/utilities/WorkerThread.class">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/WorkerThread.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="-2716">
+          <caret line="155" column="9" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/Thread_03_02.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/Thread_02_01.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="$debug_swf$" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/HelloRunnable.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threads/src/TestJoinClass.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="613" column="22" selection-start-line="613" selection-start-column="22" selection-end-line="613" selection-end-column="22" />
+          <folding>
+            <element signature="e#33891#33892#0" expanded="$debug_swf$" />
+            <element signature="e#33919#33920#0" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="-2507">
+          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="-1700">
+          <folding>
+            <element signature="e#0#91323#0" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="-2316">
+          <caret line="131" column="7" lean-forward="$debug_swf$" selection-start-line="131" selection-start-column="7" selection-end-line="131" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/src/CountTheReversals.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/src/UnionOfTwoLists.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="16" column="31" lean-forward="$debug_swf$" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GeeksForGeeks</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
