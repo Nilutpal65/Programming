@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="$debug_swf$" id="9aa7e210-c3fd-4d91-8579-6a90ee93212e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/CHelper.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/AiAndAjEquals0.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/ArrangeBallsSuchNoAdjacentSame.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/CountInversions.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/EditDistance.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/KMPSearch.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/LCSSpaceOptimised.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/LargestBST.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/LongestPalindrome.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/LongestSubstringWithoutRepeatingCharacter.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/LongestZigZagSequence.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/MaximumRectangularAreaHistogram.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/MinimumNumberOfCoins.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/MinimumNumberjumpsToReachEnd.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/MinimumTwoSubsets.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/PrimAlgorithm.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/PythogoreanTriplet.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/SubArrayWithGivenSum.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/SumLeftKDigitEqualRightK.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/TrappingRainwater.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/TrieInsertSearch.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../GeeksForGeeks/src/WaysToWriteNasSum.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/CallableFutureTest.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/Cloneable.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/ColorEnum.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Behavioural/StateDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Behavioural/StateMachine/Stages/VendingDepositState.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Behavioural/StateMachine/Stages/VendingStockState.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Behavioural/StateMachine/VendingUser.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Behavioural/StateMachine/VendingWrapper.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Behavioural/StateMachine/VendingWrapperTest.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/BuilderDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/CD.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/CDBuilder.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/CDType.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/Company.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/Packing.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/Samsung.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Builder/Sony.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/JDBCSingletonClass.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/ObserverDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Adapter/BankCustomer.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Adapter/BankDetails.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Adapter/CounterStrike.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Adapter/CreditCard.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Bridge/BridgePatternDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Bridge/JavaQuestions.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Bridge/Question.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Bridge/QuestionFormat.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Bridge/QuestionManager.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Composite/Accountant.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Composite/BankManager.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Composite/Cashier.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Composite/CompositePatternDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Composite/Employee.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Decorator/ChineseFood.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Decorator/DecoratorPatternCustomer.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Decorator/Food.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Decorator/FoodDecorator.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Decorator/NonVegFood.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/DesignPatterns/Structural/Decorator/VegFood.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/GarbageCollection.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/JUnitTest/Calculator.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/JUnitTest/CalculatorTest.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/LambdaOperation.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/ObjectsToString.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/PassByReference.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/TestExample.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/ThreadDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/Bucket.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/Coin.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/Inventory.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/Item.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/NotFullPaidException.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/NotSufficientChangeException.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/SoldOutException.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/VendingMachine.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/VendingMachineImpl.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/VendingMachine/VendingMachineImplTest.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/CountDownLatchDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/ProducerConsumer.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/ThreadPoolExecutorDemo.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../codechef.iml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../codechef/codechef.iml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../codechef/src/CHANDF.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../codechef/src/COVID19.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/.idea/StackInTheFlow-profile.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeforces.iml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A1163.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A1292.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A1336.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A1353.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A158.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A348.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A57.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/A591.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B1208.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B126.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B1288.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B1332.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B1336.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B134.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B1353.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B137.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B158.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B559.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/B914.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C1295.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C1332.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C1335.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C1336.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C1338.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C1353.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C510.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C687.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/C954.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/D118.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/D1327.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/D1343.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/E1303.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/E1305.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/E1311.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/E1335.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/E1353.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/leetcode.iml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/L1451.java" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../GeeksForGeeks/GeeksForGeeks.iml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../GeeksForGeeks/GeeksForGeeks.iml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../Java/Java.iml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../Java/Java.iml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../Threads/Threads.iml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../Threads/Threads.iml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/codeforces.iml" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../hackearth/hackearth.iml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../hackearth/hackearth.iml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/GeeksForGeeks/CountTheReversals.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/GeeksForGeeks/MakeArrayNonDecreasing.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/GeeksForGeeks/UnionOfTwoLists$Node.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/GeeksForGeeks/UnionOfTwoLists.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/GeeksForGeeks/WaterConnectionProblem$Point.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/GeeksForGeeks/WaterConnectionProblem.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/codeforces/A603$InputReader.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../out/production/codeforces/A603$InputReader.class" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/../out/production/codeforces/A603.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/../out/production/codeforces/A603.class" afterDir="$optimize_swf$" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="$debug_swf$" />
+    <option name="SHOW_DIALOG" value="$optimize_swf$" />
+    <option name="HIGHLIGHT_CONFLICTS" value="$debug_swf$" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="$optimize_swf$" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1517860059">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="$optimize_swf$" current-in-tab="$optimize_swf$">
+        <entry file="file://$PROJECT_DIR$/src/A1336.java">
+          <provider selected="$debug_swf$" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="$debug_swf$" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="$optimize_swf$" current-in-tab="$debug_swf$">
+        <entry file="file://$PROJECT_DIR$/src/A57.java">
+          <provider selected="$debug_swf$" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="$debug_swf$" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="$debug_swf$" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="$debug_swf$" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>$debug_swf$</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="948" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="$debug_swf$" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="$debug_swf$" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="$optimize_swf$" />
+    <property name="aspect.path.notification.shown" value="$debug_swf$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590079037441" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="$debug_swf$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.ActionScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.A57">
+    <configuration name="A57" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="$debug_swf$" />
+      <option name="MAIN_CLASS_NAME" value="A57" />
+      <module name="codeforces" />
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <configuration name="A57" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="$debug_swf$">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="$debug_swf$" />
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/.." />
+      <option name="MAIN_CLASS_NAME" value="A57" />
+      <module name="codeforces" />
+      <option name="SUGGESTED_NAME" value="All Features in: codeforces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="$debug_swf$" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.A57" />
+      <item itemvalue="Cucumber java.A57" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.A57" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="$debug_swf$" id="Default" summary="Default task">
+      <changelist id="9aa7e210-c3fd-4d91-8579-6a90ee93212e" name="Default Changelist" comment="" />
+      <created>1590078005639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590078005639</updated>
+      <workItem from="1590078007421" duration="188000" />
+      <workItem from="1590078680423" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="A57 - 2020.05.21 at 22h 06m 28s.xml">
+      <configuration name="A57" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="569000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1680" height="948" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="$debug_swf$" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="$debug_swf$" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="$debug_swf$" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893157" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="$optimize_swf$" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="$debug_swf$" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="$optimize_swf$" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="StackInTheFlow" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/A1336.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A57.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -4,10 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GeeksForGeeks/GeeksForGeeks.iml" filepath="$PROJECT_DIR$/GeeksForGeeks/GeeksForGeeks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Progarmming.iml" filepath="$PROJECT_DIR$/Progarmming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/code.iml" filepath="$PROJECT_DIR$/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codechef/codechef.iml" filepath="$PROJECT_DIR$/codechef/codechef.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeforces/codeforces.iml" filepath="$PROJECT_DIR$/codeforces/codeforces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hackearth/hackearth.iml" filepath="$PROJECT_DIR$/hackearth/hackearth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackearth/hackearth1.iml" filepath="$PROJECT_DIR$/hackearth/hackearth1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
     </modules>
   </component>
 </project>
