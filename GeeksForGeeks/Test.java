@@ -1,90 +1,39 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
 class Test
 {
-
-    static int kth(int arr1[], int arr2[], int m,
-                   int n, int k, int st1, int st2)
+    // Driver code
+    public static void main(String[] args)throws IOException
     {
-        // In case we have reached end of array 1 
-        if (st1 == m)
-        {
-            return arr2[st2 + k - 1];
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int test = Integer.parseInt(br.readLine());
+
+        String s[] = new String[100];
+        s[0] = "1";
+        s[1] = "11";
+
+        for (int i=2; i<25;++i) {
+            s[i] = "";
+            String current = s[i-1];
+            int len = current.length();
+
+            int j = 0;
+            while (j<len) {
+                char c = current.charAt(j);
+                int k = j;
+                while (j<len && current.charAt(j)==c) ++j;
+                s[i] += Integer.toString(j-k);
+                s[i] += c;
+            }
+
+            //System.out.println(s[i]);
         }
 
-        // In case we have reached end of array 2 
-        if (st2 == n)
-        {
-            return arr1[st1 + k - 1];
+        while (test-- > 0){
+            int n = Integer.parseInt(br.readLine());
+            System.out.println(s[n-1]);
         }
-
-        // k should never reach 0 or exceed sizes 
-        // of arrays 
-        if (k == 0 || k > (m - st1) + (n - st2))
-        {
-            return -1;
-        }
-
-        // Compare first elements of arrays and return 
-        if (k == 1)
-        {
-            return (arr1[st1] < arr2[st2])
-                    ? arr1[st1] : arr2[st2];
-        }
-        int curr = k / 2;
-
-        // Size of array 1 is less than k / 2 
-        if (curr - 1 >= m - st1)
-        {
-
-            // Last element of array 1 is not kth 
-            // We can directly return the (k - m)th 
-            // element in array 2 
-            if (arr1[m - 1] < arr2[st2 + curr - 1])
-            {
-                return arr2[st2 + (k - (m - st1) - 1)];
-            }
-            else
-            {
-                return kth(arr1, arr2, m, n, k - curr,
-                        st1, st2 + curr);
-            }
-        }
-
-        // Size of array 2 is less than k / 2 
-        if (curr - 1 >= n - st2)
-        {
-            if (arr2[n - 1] < arr1[st1 + curr - 1])
-            {
-                return arr1[st1 + (k - (n - st2) - 1)];
-            }
-            else
-            {
-                return kth(arr1, arr2, m, n, k - curr,
-                        st1 + curr, st2);
-            }
-        }
-        else
-
-            // Normal comparison, move starting index
-            // of one array k / 2 to the right
-            if (arr1[curr + st1 - 1] < arr2[curr + st2 - 1])
-            {
-                return kth(arr1, arr2, m, n, k - curr,
-                        st1 + curr, st2);
-            }
-            else
-            {
-                return kth(arr1, arr2, m, n, k - curr,
-                        st1, st2 + curr);
-            }
-    }
-
-    // Driver code 
-    public static void main(String[] args)
-    {
-        int arr1[] = {2, 3, 6, 7, 9};
-        int arr2[] = {1, 4, 8, 10};
-        int k = 5;
-        int st1 = 0, st2 = 0;
-        System.out.println(kth(arr1, arr2, 5, 4, k, st1, st2));
     }
 }  

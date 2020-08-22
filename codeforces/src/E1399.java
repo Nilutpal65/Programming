@@ -8,9 +8,9 @@ import java.util.PriorityQueue;
 
 public class E1399 {
     static class Pair {
-        int f;
-        int s;
-        Pair(int f, int s){
+        long f;
+        long s;
+        Pair(long f, long s){
             this.f = f;
             this.s = s;
         }
@@ -19,7 +19,12 @@ public class E1399 {
     static PriorityQueue<Pair> P = new PriorityQueue<Pair>(new Comparator<Pair>() {
         @Override
         public int compare(Pair o1, Pair o2) {
-            return ((o2.f - (o2.f/2))*o2.s) - ((o1.f - (o1.f/2))*o1.s);
+            long res1 = ((o2.f - (o2.f/2))*o2.s);
+            long res2 = ((o1.f - (o1.f/2))*o1.s);
+            int diff = 0;
+            if (res2 > res1) diff = -1;
+            if (res2 < res1) diff = 1;
+            return  diff;
         }
     });
 
@@ -28,7 +33,7 @@ public class E1399 {
     static long total;
 
 
-    static int dfs(int v, int parent, long tot){
+    static int dfs(int v, long parent, long tot){
         if (gr[v].size() == 1 && (v != 1)) {
             level[v] = 1;
             total += tot;
@@ -38,7 +43,7 @@ public class E1399 {
         int cur = 0;
         for (Pair e:gr[v]){
             if ( e.f == parent) continue;
-            cur = dfs(e.f, v, tot + e.s);
+            cur = dfs((int)e.f, v, tot + e.s);
             l += cur;
             P.add(new Pair(e.s, cur));
         }
@@ -48,7 +53,6 @@ public class E1399 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         int test = Integer.parseInt(br.readLine());
         while (test-- > 0){
             String in[] = br.readLine().trim().split(" ");
@@ -75,17 +79,12 @@ public class E1399 {
             dfs(1, -1, 0);
 
             int cnt = 0;
-
-//            for (Pair e:P){
-//                System.out.println(((e.s - (e.s/2))*e.f));
-//            }
-
-            while (total > S) {
+            while (total > S && P.size() > 0) {
                 cnt++;
                 Pair top = P.peek();
                 P.poll();
-                int oldi = top.f * top.s;
-                int newi = (top.f / 2) * top.s;
+                long oldi = top.f * top.s;
+                long newi = (top.f / 2) * top.s;
                 total -= oldi;
                 total += newi;
                 top.f /= 2;
@@ -93,39 +92,8 @@ public class E1399 {
                     P.add(top);
                 }
             }
-
             System.out.println(cnt);
         }
     }
 }
 
-
-/**
-1
-10 28
-8 2 8
-5 1 4
-6 1 10
-10 2 7
-7 2 1
-9 2 1
-2 1 5
-4 1 9
-3 2 5
-
-
- */
-
-/**
-1
-10 135
-5 3 9
-8 6 6
-6 5 8
-3 2 10
-9 5 6
-7 6 8
-10 9 10
-4 3 5
-2 1 6
- */
