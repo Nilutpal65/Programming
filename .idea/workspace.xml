@@ -2,18 +2,140 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="$debug_swf$" id="18aa6029-c8f6-449e-b290-c1adecc5eef1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/RearrangeAString.java" afterDir="$optimize_swf$" />
-      <change afterPath="$PROJECT_DIR$/codeforces/src/A1401.java" afterDir="$optimize_swf$" />
-      <change afterPath="$PROJECT_DIR$/codeforces/src/B1401.java" afterDir="$optimize_swf$" />
-      <change afterPath="$PROJECT_DIR$/codeforces/src/C1401.java" afterDir="$optimize_swf$" />
-      <change afterPath="$PROJECT_DIR$/codeforces/src/D1401.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/CheckIfTwoLineSegmentsIntersect.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/ConvexHull.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/GeeksForGeeks/MaximumConsecutive1.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/A1400.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/A273278.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/A279634.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/B1400.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/B273278.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/C1400.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/C273278.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/D1400.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/D273278.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/E1400.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codeforces/src/E1401.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/L850.java" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="$optimize_swf$" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="$optimize_swf$" />
       <change beforePath="$PROJECT_DIR$/GeeksForGeeks/Test.java" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/GeeksForGeeks/Test.java" afterDir="$optimize_swf$" />
-      <change beforePath="$PROJECT_DIR$/codeforces/src/E1399.java" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/codeforces/src/E1399.java" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/codeforces/src/D1401.java" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/codeforces/src/D1401.java" afterDir="$optimize_swf$" />
       <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Test.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Test.class" afterDir="$optimize_swf$" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/E1399$1.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/codeforces/E1399$1.class" afterDir="$optimize_swf$" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/E1399$Pair.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/codeforces/E1399$Pair.class" afterDir="$optimize_swf$" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeforces/E1399.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/codeforces/E1399.class" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/AbstractFactory.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/AbstractFactoryPatternExample.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Bank.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/BankFactory.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Base.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/BussinessLoan.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/CallableExample.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/CallableFutureTest.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Cloneable.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ColorEnum$Color.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ColorEnum$Test.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ColorEnum.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/CommercialPlan.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Derived.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/CeilingFanPull.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/High.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/Low.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/Medium.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/Off.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/State.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/StateDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/StateMachine/Stages/VendingDepositState.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/StateMachine/Stages/VendingStockState.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/StateMachine/Vending.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/StateMachine/VendingUser.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/StateMachine/VendingWrapper.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Behavioural/StateMachine/VendingWrapperTest.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/BuilderDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/CD.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/CDBuilder.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/CDType.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/Company.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/Packing.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/Samsung.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Builder/Sony.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/EmployeeRecord.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/JDBCSingletonClass.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/MathObserver.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Observer.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/ObserverDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/ProtoTypeDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Prototype.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/ScienceObserver.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/AdapterPatternDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/BankCustomer.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/BankDetails.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/CounterStrike.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/CounterTerrorist.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/CreditCard.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/Player.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/PlayerFactory.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Adapter/Terrorist.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Bridge/BridgePatternDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Bridge/JavaQuestions.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Bridge/Question.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Bridge/QuestionFormat.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Bridge/QuestionManager.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Composite/Accountant.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Composite/BankManager.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Composite/Cashier.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Composite/CompositePatternDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Composite/Employee.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Decorator/ChineseFood.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Decorator/DecoratorPatternCustomer.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Decorator/Food.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Decorator/FoodDecorator.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Decorator/NonVegFood.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Structural/Decorator/VegFood.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DesignPatterns/Subject.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DomesticPlan.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/FactoryCreator.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/GarbageCollection.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/GenerateBill.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/GetPlanFactory.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/HDFC.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/HomeLoan.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ICICI.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Instant.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/InstitutionalPlan.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/JUnitTest/Calculator.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/JUnitTest/CalculatorTest.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/LambdaOperation$funcInter1.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/LambdaOperation$funcInter2.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/LambdaOperation.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Loan.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/LoanFactory.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Main$1.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/MainDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ObjectsToString.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Pair.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/PassByReference.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Plan.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Reference.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Serializable1.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Test.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/TestExample$Post.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/TestExample$cmp.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/TestExample.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ThreadDemo.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/Bucket.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/Coin.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/Inventory.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/Item.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/NotFullPaidException.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/NotSufficientChangeException.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/SoldOutException.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/VendingMachine.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/VendingMachineImpl.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/VendingMachine/VendingMachineImplTest.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/cl1.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/in1.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/in2.class" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/in3.class" beforeDir="$optimize_swf$" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="$debug_swf$" />
@@ -30,43 +152,44 @@
     <session id="1135462977">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="80" />
-          <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="49" />
+          <entry key="project.closed" value="93" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="59" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="17" />
+          <entry key="project.open.time.2" value="18" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="84" />
+          <entry key="project.opened" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ft" value="193" />
-          <entry key="java" value="134186" />
+          <entry key="ft" value="224" />
+          <entry key="java" value="153409" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="130518" />
+          <entry key="JAVA" value="149741" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Scratch" value="3673" />
-          <entry key="VTL" value="193" />
+          <entry key="VTL" value="224" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="7" />
           <entry key="iml" value="2" />
-          <entry key="java" value="621" />
+          <entry key="java" value="659" />
           <entry key="properties" value="1" />
           <entry key="ser" value="1" />
           <entry key="txt" value="6" />
@@ -76,7 +199,7 @@
         <counts>
           <entry key="CLASS" value="7" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="617" />
+          <entry key="JAVA" value="655" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Properties" value="1" />
           <entry key="Scratch" value="5" />
@@ -87,37 +210,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="$optimize_swf$" current-in-tab="$optimize_swf$">
-        <entry file="file://$PROJECT_DIR$/codeforces/src/A1401.java">
+        <entry file="file://$PROJECT_DIR$/codeforces/src/E1400.java">
           <provider selected="$debug_swf$" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="18" column="20" lean-forward="$debug_swf$" selection-end-line="28" />
+            <state relative-caret-position="274">
+              <caret line="29" column="13" lean-forward="$debug_swf$" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="$optimize_swf$" current-in-tab="$optimize_swf$">
-        <entry file="file://$PROJECT_DIR$/codeforces/src/B1401.java">
+        <entry file="file://$PROJECT_DIR$/codeforces/src/A273278.java">
           <provider selected="$debug_swf$" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="36" column="35" lean-forward="$debug_swf$" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="$optimize_swf$" current-in-tab="$optimize_swf$">
-        <entry file="file://$PROJECT_DIR$/codeforces/src/C1401.java">
-          <provider selected="$debug_swf$" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="53">
+              <caret line="69" column="57" lean-forward="$debug_swf$" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="$optimize_swf$" current-in-tab="$debug_swf$">
-        <entry file="file://$PROJECT_DIR$/codeforces/src/D1401.java">
+        <entry file="file://$PROJECT_DIR$/codeforces/src/A279634.java">
           <provider selected="$debug_swf$" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="67">
+              <caret line="48" column="20" lean-forward="$debug_swf$" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -135,11 +249,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>MAX</find>
-      <find>getTotal</find>
-      <find>getTotalSales</find>
-      <find>TrieInsertSearch</find>
-      <find>compareTo</find>
       <find>HashMap</find>
       <find>sort(</find>
       <find>Collections.sort(</find>
@@ -165,6 +274,11 @@
       <find>gr = new ArrayLis</find>
       <find>PriorityQueue&lt;</find>
       <find>gr</find>
+      <find>Comparator</find>
+      <find>compare</find>
+      <find>[</find>
+      <find>fast</find>
+      <find>tostring</find>
     </findStrings>
     <replaceStrings>
       <replace>int</replace>
@@ -176,21 +290,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
-        <option value="$PROJECT_DIR$/codechef/src/input.txt" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/SortStack.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/SplitIntoPalindromes.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/CoinsAndEnergy.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/L128.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/AWalkToRemeber.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/MaximiseSum.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/LongestIncreasingPath.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/SumConvertion.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/PandaAndXOR.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/ColorTheBricks.java" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/MinimumRotations.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/SetSelection1.java" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/RearrangeChanracter.java" />
         <option value="$PROJECT_DIR$/GeeksForGeeks/EatMe.java" />
         <option value="$PROJECT_DIR$/GeeksForGeeks/Solution.java" />
         <option value="$PROJECT_DIR$/hackearth/src/HelpHim.java" />
@@ -221,12 +320,27 @@
         <option value="$PROJECT_DIR$/codechef/src/ZCO15002.java" />
         <option value="$PROJECT_DIR$/codechef/src/ZCO13001.java" />
         <option value="$PROJECT_DIR$/GeeksForGeeks/RearrangeAString.java" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/Test.java" />
         <option value="$PROJECT_DIR$/codeforces/src/E1399.java" />
         <option value="$PROJECT_DIR$/codeforces/src/A1401.java" />
         <option value="$PROJECT_DIR$/codeforces/src/B1401.java" />
         <option value="$PROJECT_DIR$/codeforces/src/C1401.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/CheckIfTwoLineSegmentsIntersect.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/E1401.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/L850.java" />
         <option value="$PROJECT_DIR$/codeforces/src/D1401.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/A273278.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/ConvexHull.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/B273278.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/C273278.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/D273278.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/A1400.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/MaximumConsecutive1.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/C1400.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/B1400.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/D1400.java" />
+        <option value="$PROJECT_DIR$/GeeksForGeeks/Test.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/E1400.java" />
+        <option value="$PROJECT_DIR$/codeforces/src/A279634.java" />
       </list>
     </option>
   </component>
@@ -243,7 +357,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpDebugGeneral" listening_started="$debug_swf$" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1680" />
     <option name="height" value="953" />
@@ -282,7 +396,7 @@
     <property name="Repository.Attach.Sources" value="$debug_swf$" />
     <property name="WebServerToolWindowFactoryState" value="$optimize_swf$" />
     <property name="aspect.path.notification.shown" value="$debug_swf$" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598027596241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598671964700" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
@@ -316,9 +430,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.C1401">
-    <configuration name="A1401" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="A1401" />
+  <component name="RunManager" selected="Application.A279634">
+    <configuration name="A279634" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="A279634" />
       <module name="codeforces" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
@@ -332,22 +446,22 @@
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
-    <configuration name="B1401" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="B1401" />
+    <configuration name="B1400" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="B1400" />
       <module name="codeforces" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
-    <configuration name="C1401" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="C1401" />
+    <configuration name="D1400" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="D1400" />
       <module name="codeforces" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
-    <configuration name="E1399" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="E1399" />
+    <configuration name="E1400" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="E1400" />
       <module name="codeforces" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
@@ -362,19 +476,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.A57" />
+      <item itemvalue="Application.B1400" />
+      <item itemvalue="Application.D1400" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.E1399" />
-      <item itemvalue="Application.A1401" />
-      <item itemvalue="Application.B1401" />
-      <item itemvalue="Application.C1401" />
+      <item itemvalue="Application.E1400" />
+      <item itemvalue="Application.A279634" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C1401" />
-        <item itemvalue="Application.B1401" />
-        <item itemvalue="Application.A1401" />
-        <item itemvalue="Application.E1399" />
+        <item itemvalue="Application.A279634" />
+        <item itemvalue="Application.E1400" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.D1400" />
+        <item itemvalue="Application.B1400" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +585,20 @@
       <workItem from="1597917854841" duration="788000" />
       <workItem from="1597930269151" duration="9765000" />
       <workItem from="1597977210209" duration="3681000" />
-      <workItem from="1597994894466" duration="9203000" />
+      <workItem from="1597994894466" duration="20840000" />
+      <workItem from="1598159333821" duration="20006000" />
+      <workItem from="1598266491082" duration="10268000" />
+      <workItem from="1598283419828" duration="4697000" />
+      <workItem from="1598320112910" duration="5558000" />
+      <workItem from="1598354980079" duration="515000" />
+      <workItem from="1598365871314" duration="7114000" />
+      <workItem from="1598409397883" duration="41000" />
+      <workItem from="1598416570033" duration="924000" />
+      <workItem from="1598444563253" duration="11516000" />
+      <workItem from="1598520113891" duration="583000" />
+      <workItem from="1598545656229" duration="375000" />
+      <workItem from="1598585733443" duration="1000" />
+      <workItem from="1598621873218" duration="6823000" />
     </task>
     <servers />
   </component>
@@ -508,13 +635,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="585236000" />
+    <option name="totallyTimeSpent" value="665294000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="953" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="953" extended-state="6" />
     <editor active="$debug_swf$" />
     <layout>
-      <window_info active="$debug_swf$" content_ui="combo" id="Project" order="0" visible="$debug_swf$" weight="0.15934066" />
+      <window_info content_ui="combo" id="Project" order="0" visible="$debug_swf$" weight="0.15934066" />
       <window_info id="Structure" order="1" side_tool="$debug_swf$" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -523,12 +650,12 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="$debug_swf$" weight="0.46181384" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969475" weight="0.32816228" />
+      <window_info active="$debug_swf$" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="$debug_swf$" weight="0.43794748" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969475" weight="0.2947494" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.65393794" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.03818616" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50305253" side_tool="$debug_swf$" weight="0.24369748" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32696897" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="$optimize_swf$" />
@@ -588,171 +715,53 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>m - st1</expression-string>
+        <expression-string>Seg.seg</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len</expression-string>
+        <expression-string>dp2[j][a[i]]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(Math.abs(ax - dx) + Math.abs(ay - dy) == len)</expression-string>
+        <expression-string>dp[i][a[j]]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>in.length</expression-string>
+        <expression-string>dp[i+1][L.get(j)]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>L.size() - 1</expression-string>
+        <expression-string>dp[j-1][i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>a[k][j]</expression-string>
+        <expression-string>(dp[j-1][i] - dp[i][i])</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s</expression-string>
+        <expression-string>top.y</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>c[i]</expression-string>
+        <expression-string>M.get(e)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>e.s == mx</expression-string>
+        <expression-string>e.y</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="908" selection-start-line="908" selection-end-line="908" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackearth/src/SetSelection1.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackearth/src/ColorTheBricks.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/src/LargestBST.java" />
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/hackearth/src/HelpHim.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="42" lean-forward="$debug_swf$" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/SortStack.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/EatMe.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/MinimiseTheHeights.java" />
-    <entry file="file://$PROJECT_DIR$/hackearth/src/EnclosedValues.java" />
-    <entry file="file://$PROJECT_DIR$/codeforces/src/F1249.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="40" column="67" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/SubsetSum.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="28" column="51" lean-forward="$debug_swf$" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/ShortestCommonSupersequence.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackearth/src/MaximumBitwisepair.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="49" lean-forward="$debug_swf$" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/CelebrityProblem.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/SumOfFourNumber.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/SaveIronMan.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="62" column="60" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/B1399.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" selection-start-line="8" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/C1399.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="36" column="19" lean-forward="$debug_swf$" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/A1399.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="34" lean-forward="$debug_swf$" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codeforces/src/D1399.java">
       <provider selected="$debug_swf$" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -764,13 +773,6 @@
       <provider selected="$debug_swf$" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/L1451.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -871,9 +873,6 @@
       <provider selected="$debug_swf$" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="$debug_swf$" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -891,37 +890,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/Test.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="$debug_swf$" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codeforces/src/E1399.java">
       <provider selected="$debug_swf$" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="74" column="45" lean-forward="$debug_swf$" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
-          <folding>
-            <element signature="e#426#432#0" expanded="$debug_swf$" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/A1401.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="18" column="20" lean-forward="$debug_swf$" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/B1401.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="36" column="35" lean-forward="$debug_swf$" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -946,10 +918,198 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/B1401.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="36" column="35" lean-forward="$debug_swf$" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/A1401.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="18" column="20" lean-forward="$debug_swf$" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/CheckIfTwoLineSegmentsIntersect.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="45" lean-forward="$debug_swf$" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/L128.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/L1451.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/CoinsAndEnergy.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/L850.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="48" column="37" lean-forward="$debug_swf$" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codeforces/src/D1401.java">
       <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="813">
+          <caret line="115" column="1" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="3799" column="34" lean-forward="$debug_swf$" selection-start-line="3799" selection-start-column="34" selection-end-line="3799" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/ObjectsToString.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="$debug_swf$" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/E1401.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="85" column="9" lean-forward="$debug_swf$" selection-start-line="83" selection-start-column="8" selection-end-line="85" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/B273278.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="106" column="9" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/D273278.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/A1400.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="32" column="19" lean-forward="$debug_swf$" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/ConvexHull.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="57" column="58" selection-start-line="57" selection-start-column="58" selection-end-line="57" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/MaximumConsecutive1.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/C1400.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/B1400.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/D1400.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="51" column="62" lean-forward="$debug_swf$" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/Test.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/C273278.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" selection-start-line="6" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/E1400.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="29" column="13" lean-forward="$debug_swf$" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/A273278.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="69" column="57" lean-forward="$debug_swf$" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeforces/src/A279634.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="48" column="20" lean-forward="$debug_swf$" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
         </state>
       </provider>
     </entry>
