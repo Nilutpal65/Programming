@@ -3,28 +3,26 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class E1400 {
-    static long solve(int a[], int be, int en) {
-        if (be>en) return 0;
-        long mn = Integer.MAX_VALUE;
-        int ind = 0;
-        for (int i=be;i<=en;++i) {
-            if (a[i] < mn) {
-                mn = a[i];
-                ind = i;
-            }
-        }
-        if (mn != -1) {
-            for (int i=be;i<=en;++i) a[i] -= mn;
-        }
-        return Math.min(en-be+1L, solve(a, be, ind-1) + solve(a, ind+1, en) + mn);
-    }
+public class C1392 {
     public static void main(String[] args) throws IOException {
         FastScanner fs = new FastScanner();
-        int n = fs.nextInt();
-        int a[] = new int[n];
-        for (int i=0;i<n;++i)a[i] = fs.nextInt();
-        System.out.println(solve(a, 0, n-1));
+        int test = fs.nextInt();
+        while (test-- > 0) {
+            int n = fs.nextInt();
+            long a[] = new long[n];
+            long ans = 0;
+            for (int i=0;i<n;++i){
+                a[i] = fs.nextLong();
+                if (i>0) {
+                    if (a[i] >= a[i-1]) {
+                        continue;
+                    } else {
+                        ans += a[i-1] - a[i];
+                    }
+                }
+            }
+            System.out.println(ans);
+        }
     }
 
     static class FastScanner {
