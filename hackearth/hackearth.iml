@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="$debug_swf$">
-    <exclude-output />
+<module version="4">
+  <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="$optimize_swf$" />
-      <excludeFolder url="file://$MODULE_DIR$" />
     </content>
-    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="$optimize_swf$" />
-    <orderEntry type="library" name="CHelper" level="project" />
   </component>
 </module>

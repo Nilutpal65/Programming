@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="$debug_swf$" id="18aa6029-c8f6-449e-b290-c1adecc5eef1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/codeforces/src/C1392.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/Spoj.iml" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codechef/src/ADAMAT.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codechef/src/COVID19B.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/codechef/src/TREE2.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/hackearth/src/MaxTriplet.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/LargestTimeforGivenDigits.java" afterDir="$optimize_swf$" />
+      <change afterPath="$PROJECT_DIR$/src/KATHTHI.java" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="$optimize_swf$" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="$optimize_swf$" />
-      <change beforePath="$PROJECT_DIR$/codeforces/src/E1400.java" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/codeforces/src/E1400.java" afterDir="$optimize_swf$" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/L850.java" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/leetcode/src/L850.java" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank.iml" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/codechef.iml" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/euler.iml" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/file.ser" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/hackearth/hackearth.iml" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/hackearth/hackearth.iml" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/hackearth/hackearth1.iml" beforeDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/L850$1.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/leetcode/L850$1.class" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/L850$2.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/leetcode/L850$2.class" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/L850$Pair.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/leetcode/L850$Pair.class" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/L850.class" beforeDir="$optimize_swf$" afterPath="$PROJECT_DIR$/out/production/leetcode/L850.class" afterDir="$optimize_swf$" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="$optimize_swf$" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="$debug_swf$" />
@@ -22,9 +39,9 @@
     <session id="1135462977">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="99" />
-          <entry key="project.open.time.0" value="6" />
-          <entry key="project.open.time.1" value="63" />
+          <entry key="project.closed" value="108" />
+          <entry key="project.open.time.0" value="7" />
+          <entry key="project.open.time.1" value="70" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -34,23 +51,24 @@
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="102" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="224" />
-          <entry key="java" value="155589" />
+          <entry key="java" value="160356" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="151921" />
+          <entry key="JAVA" value="156688" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Scratch" value="3673" />
           <entry key="VTL" value="224" />
@@ -59,32 +77,46 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="7" />
-          <entry key="iml" value="2" />
-          <entry key="java" value="663" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="676" />
           <entry key="properties" value="1" />
           <entry key="ser" value="1" />
           <entry key="txt" value="6" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="659" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="672" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Properties" value="1" />
           <entry key="Scratch" value="5" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="$optimize_swf$" current-in-tab="$debug_swf$">
-        <entry file="file://$PROJECT_DIR$/codeforces/src/E1400.java">
+      <file pinned="$optimize_swf$" current-in-tab="$optimize_swf$">
+        <entry file="file://$PROJECT_DIR$/codechef/src/COVID19B.java">
           <provider selected="$debug_swf$" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="5" lean-forward="$debug_swf$" selection-end-line="58" />
+            <state relative-caret-position="269">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="$debug_swf$" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="$optimize_swf$" current-in-tab="$debug_swf$">
+        <entry file="file://$PROJECT_DIR$/hackearth/src/MaxTriplet.java">
+          <provider selected="$debug_swf$" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -102,8 +134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sort(</find>
-      <find>Collections.sort(</find>
       <find>extends Compara</find>
       <find>Pair()</find>
       <find>Map</find>
@@ -132,10 +162,15 @@
       <find>fast</find>
       <find>tostring</find>
       <find>Fas</find>
+      <find>remove</find>
+      <find>spoj</find>
     </findStrings>
     <replaceStrings>
       <replace>int</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/.idea</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,12 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GeeksForGeeks/Solution.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/HelpHim.java" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/MinimiseTheHeights.java" />
-        <option value="$PROJECT_DIR$/hackearth/src/EnclosedValues.java" />
-        <option value="$PROJECT_DIR$/codeforces/src/F1249.java" />
-        <option value="$PROJECT_DIR$/GeeksForGeeks/SubsetSum.java" />
         <option value="$PROJECT_DIR$/GeeksForGeeks/ShortestCommonSupersequence.java" />
         <option value="$PROJECT_DIR$/hackearth/src/MaximumBitwisepair.java" />
         <option value="$PROJECT_DIR$/GeeksForGeeks/CelebrityProblem.java" />
@@ -194,6 +223,12 @@
         <option value="$PROJECT_DIR$/leetcode/src/L850.java" />
         <option value="$PROJECT_DIR$/codeforces/src/C1392.java" />
         <option value="$PROJECT_DIR$/codeforces/src/E1400.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/LargestTimeforGivenDigits.java" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/src/KATHTHI.java" />
+        <option value="$PROJECT_DIR$/codechef/src/TREE2.java" />
+        <option value="$PROJECT_DIR$/codechef/src/ADAMAT.java" />
+        <option value="$PROJECT_DIR$/codechef/src/COVID19B.java" />
       </list>
     </option>
   </component>
@@ -219,7 +254,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="$debug_swf$" />
     </navigator>
     <panes>
@@ -228,19 +263,24 @@
           <expand>
             <path>
               <item name="Progarmming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
+              <item name="Progarmming" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="Progarmming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeforces" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Progarmming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="hackearth" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,7 +289,7 @@
     <property name="Repository.Attach.Sources" value="$debug_swf$" />
     <property name="WebServerToolWindowFactoryState" value="$optimize_swf$" />
     <property name="aspect.path.notification.shown" value="$debug_swf$" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598932967897" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599278447350" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
@@ -259,7 +299,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -283,14 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E1400">
-    <configuration name="A279634" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="A279634" />
-      <module name="codeforces" />
-      <method v="2">
-        <option name="Make" enabled="$debug_swf$" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.COVID19B">
     <configuration name="A57" type="Application" factoryName="Application" nameIsGenerated="$debug_swf$">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="$debug_swf$" />
@@ -299,49 +332,56 @@
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
-    <configuration name="C1392" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="C1392" />
-      <module name="codeforces" />
+    <configuration name="ADAMAT" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="ADAMAT" />
+      <module name="codechef" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
-    <configuration name="D1400" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="D1400" />
-      <module name="codeforces" />
+    <configuration name="COVID19B" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="COVID19B" />
+      <module name="codechef" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
-    <configuration name="E1400" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="E1400" />
-      <module name="codeforces" />
+    <configuration name="KATHTHI" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="KATHTHI" />
+      <module name="Spoj" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="GeeksForGeeks" />
+    <configuration name="LargestTimeforGivenDigits" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="LargestTimeforGivenDigits" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="$debug_swf$" />
+      </method>
+    </configuration>
+    <configuration name="TREE2" type="Application" factoryName="Application" temporary="$debug_swf$" nameIsGenerated="$debug_swf$">
+      <option name="MAIN_CLASS_NAME" value="TREE2" />
+      <module name="codechef" />
       <method v="2">
         <option name="Make" enabled="$debug_swf$" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.A57" />
-      <item itemvalue="Application.D1400" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.E1400" />
-      <item itemvalue="Application.A279634" />
-      <item itemvalue="Application.C1392" />
+      <item itemvalue="Application.LargestTimeforGivenDigits" />
+      <item itemvalue="Application.KATHTHI" />
+      <item itemvalue="Application.TREE2" />
+      <item itemvalue="Application.ADAMAT" />
+      <item itemvalue="Application.COVID19B" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E1400" />
-        <item itemvalue="Application.C1392" />
-        <item itemvalue="Application.A279634" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.D1400" />
+        <item itemvalue="Application.COVID19B" />
+        <item itemvalue="Application.ADAMAT" />
+        <item itemvalue="Application.TREE2" />
+        <item itemvalue="Application.KATHTHI" />
+        <item itemvalue="Application.LargestTimeforGivenDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -457,6 +497,15 @@
       <workItem from="1598881549542" duration="3275000" />
       <workItem from="1598893618713" duration="552000" />
       <workItem from="1598932293471" duration="1271000" />
+      <workItem from="1598957942466" duration="3724000" />
+      <workItem from="1598963573360" duration="209000" />
+      <workItem from="1598963785588" duration="50000" />
+      <workItem from="1598963859588" duration="216000" />
+      <workItem from="1598967374564" duration="125000" />
+      <workItem from="1599106755397" duration="278000" />
+      <workItem from="1599112691817" duration="3541000" />
+      <workItem from="1599221163256" duration="6996000" />
+      <workItem from="1599234828653" duration="3315000" />
     </task>
     <servers />
   </component>
@@ -493,13 +542,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="674675000" />
+    <option name="totallyTimeSpent" value="693129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="953" extended-state="6" />
     <editor active="$debug_swf$" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="$debug_swf$" weight="0.15934066" />
+      <window_info active="$debug_swf$" content_ui="combo" id="Project" order="0" visible="$debug_swf$" weight="0.15934066" />
       <window_info id="Structure" order="1" side_tool="$debug_swf$" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -508,12 +557,12 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.4868735" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="$debug_swf$" weight="0.13365155" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969475" weight="0.52983296" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.39498806" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.65393794" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50305253" side_tool="$debug_swf$" weight="0.24369748" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32696897" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="$optimize_swf$" />
@@ -620,91 +669,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codeforces/src/A1336.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeeksForGeeks/RearrangeChanracter.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="32" column="13" selection-start-line="27" selection-start-column="56" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/A1393.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" lean-forward="$debug_swf$" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/B1393.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="127" column="28" lean-forward="$debug_swf$" selection-start-line="127" selection-start-column="28" selection-end-line="127" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/SplitIntoPalindromes.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="57" lean-forward="$debug_swf$" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="349" column="13" selection-start-line="349" selection-start-column="13" selection-end-line="349" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/A1319.java" />
-    <entry file="file://$PROJECT_DIR$/codeforces/src/A1391.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="$debug_swf$" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/B1391.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="46" column="34" lean-forward="$debug_swf$" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/C1391.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="43" lean-forward="$debug_swf$" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/C1393.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/E1136.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeforces/src/D1393.java">
-      <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="56" column="17" lean-forward="$debug_swf$" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codeforces/src/D1391.java" />
     <entry file="file://$PROJECT_DIR$/codechef/src/InputOutput.java">
       <provider selected="$debug_swf$" editor-type-id="text-editor">
@@ -960,8 +924,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codeforces/src/E1400.java">
       <provider selected="$debug_swf$" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="5" lean-forward="$debug_swf$" selection-end-line="58" />
+        <state relative-caret-position="684">
+          <caret line="57" column="1" lean-forward="$debug_swf$" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/LargestTimeforGivenDigits.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackearth/hackearth1.iml" />
+    <entry file="file://$PROJECT_DIR$/hackearth/hackearth.iml">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spoj/KATHTHI.java" />
+    <entry file="file://$PROJECT_DIR$/hackearth/src/ArrayAndOperations.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CPTemplate.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KATHTHI.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="20" column="63" lean-forward="$debug_swf$" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/src/TREE2.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="29" lean-forward="$debug_swf$" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/src/ADAMAT.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="857">
+          <caret line="93" lean-forward="$debug_swf$" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/src/COVID19B.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="$debug_swf$" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackearth/src/MaxTriplet.java">
+      <provider selected="$debug_swf$" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1017,7 +1063,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hackearth1</last-edited>
+          <last-edited>Spoj</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
