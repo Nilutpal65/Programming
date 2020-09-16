@@ -1,11 +1,10 @@
-import javax.annotation.processing.SupportedSourceVersion;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class COVID19B {
+class COVID19B {
     public static void main(String[] args) throws IOException {
         FastScanner fs = new FastScanner();
         int test = fs.nextInt();
@@ -13,44 +12,55 @@ public class COVID19B {
             int n = fs.nextInt();
             int a[] = new int[n];
             for (int i=0;i<n;++i) a[i] = fs.nextInt();
-            Map<Integer, Integer> M = new HashMap<>();
-            for (int i=0;i<n;++i) {
-                M.put(i, i+1);
-            }
-
-            for (int i=0;i<n;++i) {
-                Map<Integer, Integer>mo = new HashMap<>();
-                mo.put(i, 1);
-                for (int j=1;j<=50;++j){
-                    for (int k=0;k<n;++k){
-                        mo.put(k, M.get(k)+a[k]);
+            int ans[] = new int[n];
+            Arrays.fill(ans, 1);
+            int min = Integer.MAX_VALUE;
+            int max = Integer.MIN_VALUE;
+            for (int i=0;i<n;++i){
+                int cnt  = 1;
+                int mx = a[i];
+                for (int j=0;j<i;++j) {
+                    if (a[j]>a[i]){
+                        cnt++;
+                        mx = Math.max(a[j], mx);
                     }
-
                 }
+                for (int j=i+1;j<n;++j) {
+                    if (a[j]<mx) cnt++;
+                }
+                //min = Math.min(ans[i], min);
+                //System.out.println(i + " "  + cnt);
+                max = Math.max(cnt, max);
+                //min = Math.min(cnt, min);
             }
+            for (int i =0; i<n;++i){
+                int cnt = 1;
+                int mx = a[i];
+                int mega_mx = a[i];
+                //left < a[i]
+                for (int j=i+1;j<n;++j) if (a[i]>a[j]) {
+                    cnt++;
+                    mx = Math.min(mx, a[j]);
+                }
+                for (int j=0;j<i;++j) if (a[j]>mx) {
+                    ++cnt;
+                    mega_mx = Math.max(mega_mx, a[j]);
+                }
 
-//            List<Integer>L[] = new ArrayList[250];
-//            for (int i=0;i<250;++i) L[i] = new ArrayList<>();
-//            for (int i=0;i<50;++i) {
-//                for (int j=0;j<n;++j) if (M.get(j)<250){
-//                    L[M.get(j)].add(j);
-//                    M.put(j, M.get(j) + a[j]);
-//                }
-//            }
-//            for (int i=0;i<n;++i) {
-//                Map<Integer, Boolean> mo = new HashMap<>();
-//                mo.put(i, true);
-//                for (int j=0;j<250;++j) if (L[j].size()>0) {
-//                    if (L[j].contains(new Integer(i))){
-//                        for (Integer e:L[j]){
-//                            mo.put(e, true);
-//                        }
-//                    }
-//                }
-//                System.out.println(mo.size());
-//            }
+
+                //right > a[i]
+                for (int j=i+1;j<n;++j) {
+                    if (a[j]>=a[i] && mega_mx>a[j]){
+                        ++cnt;
+                    }
+                }
+
+                min = Math.min(cnt, min);
+            }
+            System.out.println(min + " " + max);
         }
     }
+
     static class FastScanner {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer("");

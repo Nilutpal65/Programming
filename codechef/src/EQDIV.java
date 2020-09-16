@@ -1,16 +1,47 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.*;
-import java.util.List;
 import java.util.StringTokenizer;
 
-public class Test {
+class EQDIV {
     public static void main(String[] args) throws IOException {
         FastScanner fs = new FastScanner();
-        String s = "abcde";
-        System.out.println(s.substring(3, s.length()));
+        int k = fs.nextInt();
+        int test = fs.nextInt();
+        while (test-- > 0){
+            long n = fs.nextLong();
+            long res = n % 4;
+            if (res == 0 || res == 3) {
+                System.out.println(0);
+            } else {
+                System.out.println(1);
+            }
+            long sum = (n * (n + 1L) * 1L) / 2L;
+            sum = sum / 2L;
+            int ans[] = new int[(int)n+1];
+
+
+            long lo = 0;
+            long hi = n;
+            long pos = 0;
+            while (lo<=hi){
+                long mid = (lo + hi)/2;
+                long res1 = (mid * (mid+1))/2;
+                if (res1<=sum) {
+                    pos = mid;
+                    lo = mid+1;
+                } else {
+                    hi = mid-1;
+                }
+            }
+
+
+
+            for (int i=1;i<=(int)n;++i){
+                System.out.print(ans[i]);
+            }
+            System.out.println("");
+        }
     }
 
     static class FastScanner {
