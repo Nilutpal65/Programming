@@ -52,6 +52,9 @@ template <class T> void _print(vector <T> v) {cerr << "[ "; for (T i : v) {_prin
 template <class T> void _print(set <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T> void _print(multiset <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T, class V> void _print(map <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
+void solve() {
+
+}
 int main()
 {
 //#ifdef ONLINE_JUDGE
@@ -60,6 +63,11 @@ int main()
 //#endif
 	std::ios::sync_with_stdio(false);
 	cin.tie(0);
+
+	int test; cin >> test;
+	while(test--) {
+		solve();
+	}
 
 	return 0;
 }

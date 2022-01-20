@@ -52,6 +52,19 @@ template <class T> void _print(vector <T> v) {cerr << "[ "; for (T i : v) {_prin
 template <class T> void _print(set <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T> void _print(multiset <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T, class V> void _print(map <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
+const int64 mod = (int64)1e9 + 7;
+int64 modpow(int64 a, int64 b) {
+	int64 d = 1;
+	while(b > 0) {
+		if (b&1) {
+			d = d * a;
+			d %= mod;
+		}
+		a = (a * a) % mod;
+		b >>= 1;
+	}
+	return d;
+}
 int main()
 {
 //#ifdef ONLINE_JUDGE
@@ -61,24 +74,39 @@ int main()
 	std::ios::sync_with_stdio(false);
 	cin.tie(0);
 
-	random_device dev;
-	mt19937 rng(dev());
-	uniform_int_distribution<mt19937::result_type> dist_50(1,50),dist_3(1,3);
-
-	//int x = dist_50(dev);
-
-	cout << 10 << " " << 10 << endl;
-	REP(i,10) {
-		cout << "1 ";
+	int n; cin >> n;
+	string s; cin >> s;
+	int64 la = 0,lc = 0,ra = 0,rc = 0,lq = 0, rq = 0;
+	int64 ans = 0;
+	REP(i,n) {
+		ra += s[i] == 'a';
+		rc += s[i] == 'c';
+		rq += s[i] == '?';
 	}
-	cout << endl;
-	REP(i,10) {
-		cout << 1 << " " << (i+1) << endl;
+	REP(i,n) {
+		ra -= (s[i] == 'a');
+		rc -= (s[i] == 'c');
+		rq -= (s[i] == '?');
+		if (s[i] == 'b' || s[i] == '?') {
+			if (la && rc) {
+				ans += ((la * rc) % mod) * modpow(3,lq + rq);
+			}
+			if (la && rq) {
+				ans += ((la * rq) % mod) * modpow(3,lq + rq - 1);
+			}
+			if (lq && rc) {
+				ans += ((lq * rc) % mod) * modpow(3,lq + rq - 1);
+			}
+			if (lq && rq) {
+				ans += ((lq * rq) % mod) * modpow(3,lq + rq - 2);
+			}
+		}
+		ans %= mod;
+		la += (s[i] == 'a');
+		lc += (s[i] == 'c');
+		lq += (s[i] == '?');
 	}
-
-
-	//cout << count << endl;
-
+	cout << ans;
 	return 0;
 }
 

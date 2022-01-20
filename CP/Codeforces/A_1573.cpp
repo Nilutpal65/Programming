@@ -52,6 +52,24 @@ template <class T> void _print(vector <T> v) {cerr << "[ "; for (T i : v) {_prin
 template <class T> void _print(set <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T> void _print(multiset <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T, class V> void _print(map <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
+void solve() {
+	int n; 
+	cin >> n;
+	string s;
+	cin >> s;
+	int64 sum = 0;
+	//debug(s);
+	REP(i,n) {
+		int x = s[i] - '0';
+		if (x) {
+			sum += x + 1;
+		}
+	}
+	//debug(s[n-1]);
+	//debug(sum);
+	if (s[n-1] != '0') sum--;
+	printf("%lld\n",sum);
+}
 int main()
 {
 //#ifdef ONLINE_JUDGE
@@ -61,23 +79,10 @@ int main()
 	std::ios::sync_with_stdio(false);
 	cin.tie(0);
 
-	random_device dev;
-	mt19937 rng(dev());
-	uniform_int_distribution<mt19937::result_type> dist_50(1,50),dist_3(1,3);
-
-	//int x = dist_50(dev);
-
-	cout << 10 << " " << 10 << endl;
-	REP(i,10) {
-		cout << "1 ";
+	int test; cin >> test;
+	while(test--) {
+		solve();
 	}
-	cout << endl;
-	REP(i,10) {
-		cout << 1 << " " << (i+1) << endl;
-	}
-
-
-	//cout << count << endl;
 
 	return 0;
 }
